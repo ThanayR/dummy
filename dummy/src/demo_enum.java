@@ -5,7 +5,7 @@ public class demo_enum {
 	
 	public static void main(String[] args) {
 		weekDays wd = weekDays.Tuesday;
-		// System.out.println(wd);	
+		System.out.println("");	
 	}
 	
 	public static int main2() {
